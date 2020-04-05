@@ -1,0 +1,29 @@
+D:\work\c#\cnc v0\cnc v0\bin\Debug\cnc v0.exe.config
+D:\work\c#\cnc v0\cnc v0\bin\Debug\cnc v0.exe
+D:\work\c#\cnc v0\cnc v0\bin\Debug\cnc v0.pdb
+D:\work\c#\cnc v0\cnc v0\obj\Debug\cnc v0.csprojResolveAssemblyReference.cache
+D:\work\c#\cnc v0\cnc v0\obj\Debug\cnc_v0.Form1.resources
+D:\work\c#\cnc v0\cnc v0\obj\Debug\cnc_v0.Properties.Resources.resources
+D:\work\c#\cnc v0\cnc v0\obj\Debug\cnc v0.csproj.GenerateResource.Cache
+D:\work\c#\cnc v0\cnc v0\obj\Debug\cnc v0.exe
+D:\work\c#\cnc v0\cnc v0\obj\Debug\cnc v0.pdb
+D:\cnc-v0 (1)\cnc v0\cnc v0\bin\Debug\cnc v0.exe.config
+D:\cnc-v0 (1)\cnc v0\cnc v0\obj\Debug\cnc v0.exe
+D:\cnc-v0 (1)\cnc v0\cnc v0\obj\Debug\cnc v0.pdb
+F:\robotics\CNC project\cnc-v0 (1)\cnc v0\cnc v0\bin\Debug\cnc v0.exe.config
+F:\robotics\CNC project\cnc-v0 (1)\cnc v0\cnc v0\obj\Debug\cnc v0.exe
+F:\robotics\CNC project\cnc-v0 (1)\cnc v0\cnc v0\obj\Debug\cnc v0.pdb
+F:\robotics\CNC project\cnc-v0 (1)\cnc v0\cnc v0\bin\Debug\cnc v0.exe
+F:\robotics\CNC project\cnc-v0 (1)\cnc v0\cnc v0\bin\Debug\cnc v0.pdb
+F:\robotics\CNC project\cnc-v0 (1)\cnc v0\cnc v0\bin\Debug\mscorlib.dll
+F:\robotics\CNC project\cnc-v0 (1)\cnc v0\cnc v0\bin\Debug\normidna.nlp
+F:\robotics\CNC project\cnc-v0 (1)\cnc v0\cnc v0\bin\Debug\normnfc.nlp
+F:\robotics\CNC project\cnc-v0 (1)\cnc v0\cnc v0\bin\Debug\normnfd.nlp
+F:\robotics\CNC project\cnc-v0 (1)\cnc v0\cnc v0\bin\Debug\normnfkc.nlp
+F:\robotics\CNC project\cnc-v0 (1)\cnc v0\cnc v0\bin\Debug\normnfkd.nlp
+F:\robotics\CNC project\cnc-v0 (1)\cnc v0\cnc v0\obj\Debug\cnc v0.csprojResolveAssemblyReference.cache
+F:\robotics\CNC project\cnc-v0 (1)\cnc v0\cnc v0\obj\Debug\cnc_v0.Form1.resources
+F:\robotics\CNC project\cnc-v0 (1)\cnc v0\cnc v0\obj\Debug\cnc_v0.Properties.Resources.resources
+F:\robotics\CNC project\cnc-v0 (1)\cnc v0\cnc v0\obj\Debug\cnc v0.csproj.GenerateResource.Cache
+F:\robotics\CNC project\cnc-v0 (1)\cnc v0\cnc v0\obj\Debug\cnc_v0.Form2.resources
+F:\robotics\CNC project\cnc-v0 (1)\cnc v0\cnc v0\obj\Debug\cnc_v0.CustomControl1.resources
